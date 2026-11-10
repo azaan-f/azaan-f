@@ -4,7 +4,7 @@
 - 🏫 Computer Science and Economics student @ the University of Illinois Urbana-Champaign
 - 💼 Former Software Engineer Intern @ IBM
 - 🔬 Previously worked on computer vision and ML research
-- 🥇 1st place MTC Hackathon Winner 2025
+- 🥇 1st place MTC Hackathon winner 2025
 - 💻 Interested in backend, infra, systems, and AI/ML
 
 ---
