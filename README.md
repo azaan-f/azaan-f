@@ -1,7 +1,7 @@
 
 # Hey, I'm Azaan 👋
 
-- 🎓 Computer Science and Economics student @ the University of Illinois Urbana-Champaign
+- 🏫 Computer Science and Economics student @ the University of Illinois Urbana-Champaign
 - 💼 Former Software Engineer Intern @ IBM
 - 🔬 Previously worked on computer vision and ML research
 - 💻 Interested in backend, infra, systems, and AI/ML
