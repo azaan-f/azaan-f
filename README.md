@@ -8,7 +8,7 @@
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **IBM** | Software Engineering Intern
 - Worked on production C/C++ firmware for IBM DataPower Gateway, contributing to system diagnostics, multithreading, and debugging. Also developed internal AI developer training focused on agent workflows and tooling.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Project
 
 **🤖 [Vision-Controlled Robotic Hand](https://github.com/azaan-f/robot-hand)**
 - Real-time computer vision system that translates hand movements into robotic finger control using Python, OpenCV, MediaPipe, and Arduino.
