@@ -1,16 +1,22 @@
 
-# Hey, I'm Azaan
+# Hey, I'm Azaan 👋
 
-Computer Science and Economics student at the University of Illinois Urbana-Champaign, interested in software engineering, backend systems, infrastructure, and AI.
+- 🎓 Studying Computer Science and Economics @ the University of Illinois Urbana-Champaign
+- 💼 Former Software Engineer Intern @ IBM 
+- 💻 Interested in backend, infra, systems, and AI/ML
 
-Previously a Software Engineering Intern at IBM
+### 💼 Professional Experience
 
-### 💼 Experience
-- **IBM — Software Engineering Intern:** Developed and debugged C/C++ firmware and backend systems, working with multithreading, Linux, and GDB.
+**IBM — Software Engineering Intern**
+- Shipped production C/C++ enhancements for IBM DataPower Gateway across multiple release lines.
+- Improved system diagnostics and debugging, including refactoring thread-state management across 20+ source files.
+- Developed training for IBM's AI coding assistant, adopted by 25+ engineers.
+
+**University of Illinois Multimedia Research Lab — Software Engineer Intern**
+- Built computer vision pipelines for wildfire smoke detection using Python, OpenCV, TensorFlow, and PyTorch.
+- Trained and evaluated deep learning models.
 
 ### 🚀 Featured Project
-- **[Robot Hand](YOUR_REPO_URL)** — Webcam-controlled robotic hand using Python, OpenCV, MediaPipe, and Arduino.
 
-
-### 🔗 Connect
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+**🤖 [Vision-Controlled Robotic Hand](https://github.com/azaan-f/robot-hand)**  
+Real-time hand-tracking system using OpenCV and MediaPipe to control five robotic fingers through Arduino.
