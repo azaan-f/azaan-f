@@ -10,7 +10,7 @@
 
 ## Professional Experience
 
-**IBM** | Software Engineeri Intern
+**IBM** | Software Engineer Intern
 - Worked on production C/C++ firmware for IBM DataPower Gateway, contributing to system diagnostics, multithreading, and debugging. Also developed internal AI developer training focused on agent workflows and tooling.
 
 
