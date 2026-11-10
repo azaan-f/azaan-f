@@ -1,22 +1,27 @@
 
-# Hey, I'm Azaan
+# Hey, I'm Azaan 👋
 
-- Studying Computer Science and Economics @ the University of Illinois Urbana-Champaign
-- Former Software Engineer Intern @ IBM 
-- Interested in backend, infra, systems, and AI/ML
+- 🎓 Computer Science and Economics student @ the University of Illinois Urbana-Champaign
+- 💼 Former Software Engineer Intern @ IBM
+- 🔬 Previously worked on computer vision and ML research
+- 💻 Interested in backend, infra, systems, and AI/ML
 
-### Professional Experience
+---
 
-**IBM — Software Engineering Intern**
-- Shipped production C/C++ enhancements for IBM DataPower Gateway across multiple release lines.
-- Improved system diagnostics and debugging, including refactoring thread-state management across 20+ source files.
-- Developed training for IBM's AI coding assistant, adopted by 25+ engineers.
+## 💼 Professional Experience
 
-**University of Illinois Multimedia Research Lab — Software Engineer Intern**
-- Built computer vision pipelines for wildfire smoke detection using Python, OpenCV, TensorFlow, and PyTorch.
-- Trained and evaluated deep learning models.
+**IBM** | Software Engineering Intern
 
-### Featured Project
+Worked on production C/C++ firmware for IBM DataPower Gateway, contributing to system diagnostics, multithreading, and debugging. Also developed internal AI developer training focused on agent workflows and tooling.
 
-**🤖 [Vision-Controlled Robotic Hand](https://github.com/azaan-f/robot-hand)**  
-Real-time hand-tracking system using OpenCV and MediaPipe to control five robotic fingers through Arduino.
+**University of Illinois- Multimedia Research Lab** | Software Engineer Intern
+
+Built ML computer vision pipelines using Python, OpenCV, TensorFlow, and PyTorch to process wildfire video footage and trained a ResNet-based smoke/fire detection model with deployment targeted toward FPGA hardware.
+
+---
+
+## 🚀 Featured Projects
+
+**🤖 [Vision-Controlled Robotic Hand](https://github.com/azaan-f/robot-hand)**
+
+Real-time computer vision system that translates hand movements into robotic finger control using Python, OpenCV, MediaPipe, and Arduino.
